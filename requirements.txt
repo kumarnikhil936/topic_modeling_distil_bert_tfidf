@@ -1,0 +1,12 @@
+sentence-transformers
+scikit-learn
+pandas 
+matplotlib
+torch
+torchvision
+torchaudio
+transformers
+umap-learn
+hdbscan
+numpy
+pandas
